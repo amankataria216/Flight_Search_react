@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "first_name": "Robert",
+      "last_name": "Schwartz",
+      "email": "rob23@gmail.com",
+      "password": "test@123",
+      "ticket": [
+        {
+          "id": 101,
+          "tdate": "27th Feb,2021",
+          "price": "5321",
+          "stime": "7:20",
+          "src": "BLR",
+          "scity": "Banglore",
+          "dtime": "9:00",
+          "des": "HYD",
+          "dcity": "Hyderabad"
+        },
+        {
+          "id": 102,
+          "tdate": "3rd March,2021",
+          "price": "5220",
+          "stime": "9:20",
+          "src": "MUM",
+          "scity": "Mumbai",
+          "dtime": "11:00",
+          "des": "BLR",
+          "dcity": "Banglore"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "first_name": "amit",
+      "last_name": "Kumar",
+      "email": "amit@gmail.com",
+      "password": "test@123"
+    },
+    {
+      "id": 2,
+      "first_name": "Robert",
+      "last_name": "Schwartz",
+      "email": "rob24@gmail.com",
+      "password": "tester@1234",
+      "ticket": [
+        {
+          "id": 101,
+          "tdate": "27th Feb,2021",
+          "price": "5321",
+          "stime": "7:20",
+          "src": "KOL",
+          "scity": "Kolkata",
+          "dtime": "9:00",
+          "des": "BHU",
+          "dcity": "Bhuwaneshwar"
+        },
+        {
+          "id": 102,
+          "tdate": "3rd March,2021",
+          "price": "5220",
+          "stime": "9:20",
+          "src": "MUM",
+          "scity": "Mumbai",
+          "dtime": "11:00",
+          "des": "BLR",
+          "dcity": "Banglore"
+        },
+        {
+          "id": 103,
+          "tdate": "3rd March,2021",
+          "price": "5220",
+          "stime": "9:20",
+          "src": "MUM",
+          "scity": "Mumbai",
+          "dtime": "11:00",
+          "des": "HYD",
+          "dcity": "Hyderabad"
+        }
+      ]
+    }
+  ],
+  "flights": [
+    {
+      "id": 10112,
+      "tdate": "5th March,2021",
+      "price": "5321",
+      "stime": "7:20",
+      "src": "BLR",
+      "scity": "Banglore",
+      "dtime": "9:00",
+      "des": "HYD",
+      "dcity": "Hyderabad"
+    },
+    {
+      "id": 201201,
+      "tdate": "5th March,2021",
+      "price": "5321",
+      "stime": "9:20",
+      "src": "BLR",
+      "scity": "Banglore",
+      "dtime": "11:00",
+      "des": "HYD",
+      "dcity": "Hyderabad"
+    },
+    {
+      "id": 10210,
+      "tdate": "5th March,2021",
+      "price": "5220",
+      "stime": "11:20",
+      "src": "MUM",
+      "scity": "Mumbai",
+      "dtime": "1:00",
+      "des": "BLR",
+      "dcity": "Banglore"
+    },
+    {
+      "id": 10219,
+      "tdate": "5th March,2021",
+      "price": "6220",
+      "stime": "10:20",
+      "src": "MUM",
+      "scity": "Mumbai",
+      "dtime": "11:00",
+      "des": "GOA",
+      "dcity": "Goa"
+    },
+    {
+      "id": 10211,
+      "tdate": "5th March,2021",
+      "price": "5530",
+      "stime": "10:20",
+      "src": "MUM",
+      "scity": "Mumbai",
+      "dtime": "11:00",
+      "des": "DEL",
+      "dcity": "Delhi"
+    }
+    ,
+    {
+      "id": 10111,
+      "tdate": "5th March,2021",
+      "price": "5120",
+      "stime": "10:20",
+      "src": "MUM",
+      "scity": "Mumbai",
+      "dtime": "11:00",
+      "des": "DEL",
+      "dcity": "Delhi"
+    }
+    
+  ]
+
+}

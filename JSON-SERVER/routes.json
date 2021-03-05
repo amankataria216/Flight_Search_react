@@ -1,0 +1,14 @@
+{
+    "/data/list:id": "/data/:id",
+    "/data/list:id/ticket": "/data/:id/ticket",
+    "/data/list:email": "/data/:email",
+    "/tickets/list":"/tickets",
+    "tickets/delete/:id":"/ticktes/:id",
+    "/data/flights/list": "/data/flights",
+    "/flights/list": "/flights",
+    "/feedbackdata/list": "/feedbackdata",
+    "/feedback/post": "/data/feedback",
+    "/users/create": "/users",
+    "/users/update/:id": "/users/:id",
+    "/users/delete/:id": "/users/:id"
+  }
